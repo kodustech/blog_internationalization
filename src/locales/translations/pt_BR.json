@@ -1,0 +1,15 @@
+{
+  "home": {
+    "welcome": "Bem-vindos!",
+    "description": "Apenas demonstrando que podemos mudar dinamicamente o idioma durante o tempo de execução, isso é essencial para algumas aplicaçōes.",
+    "downloadedStart": "Essa aplicação já foi baixada ",
+    "downloadedEnd": " vez.",
+    "downloadedEnd_plural": " vezes.",
+    "button_increment": "Pressione para incrementar",
+    "button_decrement": "Pressione para decrementar"
+  },
+  "language": {
+    "english": "Inglês",
+    "portuguese": "Português"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "home": {
+    "welcome": "Welcome!",
+    "description": "Just showcasing that we can dynamically change app's language during runtime, this is essential for some applications.",
+    "downloadedStart": "This application has been downloaded ",
+    "downloadedEnd": " time.",
+    "downloadedEnd_plural": " times.",
+    "button_increment": "Press to increment",
+    "button_decrement": "Press to decrement"
+  },
+  "language": {
+    "english": "English",
+    "portuguese": "Portuguese"
+  }
+}
